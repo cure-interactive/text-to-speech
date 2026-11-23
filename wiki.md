@@ -35,7 +35,7 @@ sudo apt-get install espeak-ng python3-tk
 ## Runtime Files
 
 - `config.json`: local app settings beside the script
-- `_log/`: runtime logs
+- `__log/`: runtime logs
 
 These files are ignored by Git.
 

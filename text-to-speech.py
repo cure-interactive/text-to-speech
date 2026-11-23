@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 # =============================================================================
 # [Python Script] [CustomTkinter GUI] [Text To Speech]
 # =============================================================================
@@ -37,7 +37,7 @@ APP_USER_MODEL_ID = "CureInteractive.TextToSpeech"
 
 PATH_DIR_SCRIPT = os.path.abspath(os.path.dirname(__file__))
 PATH_CONFIG_JSON = os.path.join(PATH_DIR_SCRIPT, "config.json")
-PATH_LOG_DIR = os.path.join(PATH_DIR_SCRIPT, "_log")
+PATH_LOG_DIR = os.path.join(PATH_DIR_SCRIPT, "__log")
 
 DEFAULT_CONFIG = {
   "window": {
